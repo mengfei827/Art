@@ -1,2 +1,2 @@
-This is about art gallery
+This is about art gallery. 
 
